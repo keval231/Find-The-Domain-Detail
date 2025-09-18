@@ -1,10 +1,12 @@
 # Find-The-Domain-Detail
 
-this is use python requests!
+This is use python requests!
 
 # Download
-->  use Zip!
-->  use VScode
+->  Use Zip!
+
+
+->  Use VScode!
 
 
 # Custom
