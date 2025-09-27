@@ -11,4 +11,4 @@ This is use python requests!
 
 # Custom
 
--> only the (googlo.com)
+-> only the (youtube.com)
